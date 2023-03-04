@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 FranxxOS
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">高亮度模式</string>
+    <string name="hbm_fragment_summary">为HBM设置</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">启用峰值亮度</string>
+    <string name="auto_hbm_title">自动HBM</string>
+    <string name="auto_hbm_summary">启用基于太阳光的峰值亮度</string>
+    <string name="auto_hbm_threshold_summary">阈值（勒克斯）</string>
+    <string name="hbm_mode_warning">长时间使用高亮度模式可能会损坏您的显示器。</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">双击即可唤醒</string>
+    <string name="dt2w_enable_summary">双击锁屏来唤醒设备</string>
+</resources>

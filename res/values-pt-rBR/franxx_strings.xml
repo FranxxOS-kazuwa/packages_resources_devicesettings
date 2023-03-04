@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 FranxxOS
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Modo de alta luminosidade</string>
+    <string name="hbm_fragment_summary">Configurações para HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Activar a luminância de pico</string>
+    <string name="auto_hbm_title">HBM automático</string>
+    <string name="auto_hbm_summary">Activar a luminância de pico com base na luz solar</string>
+    <string name="auto_hbm_threshold_summary">limiar (lux)</string>
+    <string name="hbm_mode_warning">O uso prolongado do modo de alta luminosidade pode danificar o seu ecrã</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Tapa dupla para acordar</string>
+    <string name="dt2w_enable_summary">Tapa dupla no dispositivo de despertar</string>
+</resources>
